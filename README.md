@@ -8,7 +8,7 @@ git submodule update --init --recursive
 
 ## Version table
 
-atmosphere 11 is reported as **NOT** working with any official or unofficial builds of ldn_mitm.
+atmosphere .16 (ofw 11) is reported as **NOT** working with any official or unofficial builds of ldn_mitm.
 
 | ldn_mitm version | Atmosphère version |
 | :--------------: | :----------------: |
